@@ -1,0 +1,56 @@
+header {
+    background-attachment: fixed;
+    background-image: url("http://ballislife.com/wp-content/uploads/2014/02/Check-Out-Complexs-50-Things-You-Didnt-Know-About-Michael-Jordan-01-featured-image.jpg");
+    background-position:  0 -85px;
+    background-size: cover;
+    height: 450px;
+    background-repeat: no-repeat;
+        
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-brand:hover, 
+.nav-brand:focus{
+    color: red;
+}
+
+.nav li a {
+    color: white;
+    padding-right: 5px;
+}
+.nav li a:hover,
+.nav li a:focus{
+    background-color: transparent;
+    color: red;
+}
+
+.navbar-toggle .icon-bar{
+    background-color: white;
+}
+
+.quotes h2,
+.quote-list article {
+    text-align: center;
+}
+
+.quote-list article .quote {
+    color: #747474;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.quote-list article .bio .image,
+.quote-list article .bio .author {
+    float: left;
+}
+
+.quote-list article .bio .author {
+    padding-left: 10px;
+}
+
+.quote-list article .bio .image img {
+    border-radius: 50%;
+}
